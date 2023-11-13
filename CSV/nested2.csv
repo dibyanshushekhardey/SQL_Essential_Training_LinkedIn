@@ -1,0 +1,293 @@
+InvoiceDate,BillingAddress,BillingCity,Total
+2011-06-20 00:00:00,Porthaninkatu 9,Helsinki,7.96
+2012-09-27 00:00:00,162 E Superior Street,Chicago,7.96
+2010-01-10 00:00:00,Celsiusg. 9,Stockholm,6.94
+2009-01-03 00:00:00,Grétrystraat 63,Brussels,5.94
+2009-02-03 00:00:00,3 Chatham Street,Dublin,5.94
+2009-03-06 00:00:00,319 N. Frances Street,Madison,5.94
+2009-04-06 00:00:00,Ullevålsveien 14,Oslo,5.94
+2009-05-07 00:00:00,"9, Place Louis Barthou",Bordeaux,5.94
+2009-06-07 00:00:00,801 W 4th Street,Reno,5.94
+2009-07-08 00:00:00,"3,Raj Bhavan Road",Bangalore,5.94
+2009-08-08 00:00:00,Barbarossastraße 19,Berlin,5.94
+2009-09-08 00:00:00,1 Microsoft Way,Redmond,5.94
+2009-10-09 00:00:00,421 Bourke Street,Sidney,5.94
+2009-11-09 00:00:00,Rua da Assunção 53,Lisbon,5.94
+2009-12-10 00:00:00,Qe 7 Bloco G,Brasília,5.94
+2010-02-10 00:00:00,230 Elgin Street,Ottawa,5.94
+2010-03-13 00:00:00,Sønder Boulevard 51,Copenhagen,5.94
+2010-04-13 00:00:00,"Via Degli Scipioni, 43",Rome,5.94
+2010-05-14 00:00:00,2211 W Berry Street,Fort Worth,5.94
+2010-06-14 00:00:00,Klanova 9/506,Prague,5.94
+2010-07-15 00:00:00,"68, Rue Jouvence",Dijon,5.94
+2010-08-15 00:00:00,120 S Orange Ave,Orlando,5.94
+2010-09-15 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,5.94
+2010-10-16 00:00:00,"4, Rue Milton",Paris,5.94
+2010-11-16 00:00:00,627 Broadway,New York,5.94
+2010-12-17 00:00:00,307 Macacha Güemes,Buenos Aires,5.94
+2011-01-17 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto,5.94
+2011-02-17 00:00:00,8210 111 ST NW,Edmonton,5.94
+2011-03-20 00:00:00,202 Hoxton Street,London,5.94
+2011-04-20 00:00:00,194A Chain Lake Drive,Halifax,5.94
+2011-05-21 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo,5.94
+2011-07-22 00:00:00,1033 N Park Ave,Tucson,5.94
+2011-08-22 00:00:00,Rilská 3174/6,Prague,5.94
+2011-09-22 00:00:00,Porthaninkatu 9,Helsinki,5.94
+2011-10-23 00:00:00,69 Salem Street,Boston,5.94
+2011-11-23 00:00:00,Theodor-Heuss-Straße 34,Stuttgart,5.94
+2011-12-24 00:00:00,"8, Rue Hanovre",Paris,5.94
+2012-01-24 00:00:00,1 Infinite Loop,Cupertino,5.94
+2012-02-24 00:00:00,"Calle Lira, 198",Santiago,5.94
+2012-03-26 00:00:00,Tauentzienstraße 8,Berlin,5.94
+2012-04-26 00:00:00,700 W Pender Street,Vancouver,5.94
+2012-05-27 00:00:00,113 Lupus St,London,5.94
+2012-06-27 00:00:00,696 Osborne Street,Winnipeg,5.94
+2012-07-28 00:00:00,"Av. Paulista, 2022",São Paulo,5.94
+2012-08-28 00:00:00,Ordynacka 10,Warsaw,5.94
+2012-10-29 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,5.94
+2012-11-29 00:00:00,Erzsébet krt. 58.,Budapest,5.94
+2012-12-30 00:00:00,162 E Superior Street,Chicago,5.94
+2013-01-30 00:00:00,1498 rue Bélanger,Montréal,5.94
+2013-03-02 00:00:00,"11, Place Bellecour",Lyon,5.94
+2013-04-02 00:00:00,541 Del Medio Avenue,Mountain View,5.94
+2013-05-03 00:00:00,"12,Community Centre",Delhi,5.94
+2013-06-03 00:00:00,Berger Straße 10,Frankfurt,5.94
+2013-07-04 00:00:00,1600 Amphitheatre Parkway,Mountain View,5.94
+2013-08-04 00:00:00,110 Raeburn Pl,Edinburgh ,5.94
+2013-09-04 00:00:00,5112 48 Street,Yellowknife,5.94
+2013-10-05 00:00:00,"Praça Pio X, 119",Rio de Janeiro,5.94
+2013-11-05 00:00:00,C/ San Bernardo 85,Madrid,5.94
+2013-12-06 00:00:00,796 Dundas Street West,Toronto,5.94
+2010-03-11 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,3.98
+2010-03-11 00:00:00,1498 rue Bélanger,Montréal,3.98
+2011-06-19 00:00:00,"9, Place Louis Barthou",Bordeaux,3.98
+2012-09-26 00:00:00,541 Del Medio Avenue,Mountain View,3.98
+2012-09-26 00:00:00,120 S Orange Ave,Orlando,3.98
+2009-01-02 00:00:00,Ullevålsveien 14,Oslo,3.96
+2009-02-02 00:00:00,"9, Place Louis Barthou",Bordeaux,3.96
+2009-03-05 00:00:00,801 W 4th Street,Reno,3.96
+2009-04-05 00:00:00,"3,Raj Bhavan Road",Bangalore,3.96
+2009-05-06 00:00:00,Barbarossastraße 19,Berlin,3.96
+2009-06-06 00:00:00,1 Microsoft Way,Redmond,3.96
+2009-07-07 00:00:00,421 Bourke Street,Sidney,3.96
+2009-08-07 00:00:00,Rua da Assunção 53,Lisbon,3.96
+2009-09-07 00:00:00,Qe 7 Bloco G,Brasília,3.96
+2009-10-08 00:00:00,Celsiusg. 9,Stockholm,3.96
+2009-11-08 00:00:00,230 Elgin Street,Ottawa,3.96
+2009-12-09 00:00:00,Sønder Boulevard 51,Copenhagen,3.96
+2010-01-09 00:00:00,"Via Degli Scipioni, 43",Rome,3.96
+2010-02-09 00:00:00,2211 W Berry Street,Fort Worth,3.96
+2010-03-12 00:00:00,Klanova 9/506,Prague,3.96
+2010-04-12 00:00:00,"68, Rue Jouvence",Dijon,3.96
+2010-05-13 00:00:00,120 S Orange Ave,Orlando,3.96
+2010-06-13 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,3.96
+2010-07-14 00:00:00,"4, Rue Milton",Paris,3.96
+2010-08-14 00:00:00,627 Broadway,New York,3.96
+2010-09-14 00:00:00,307 Macacha Güemes,Buenos Aires,3.96
+2010-10-15 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto,3.96
+2010-11-15 00:00:00,8210 111 ST NW,Edmonton,3.96
+2010-12-16 00:00:00,202 Hoxton Street,London,3.96
+2011-01-16 00:00:00,194A Chain Lake Drive,Halifax,3.96
+2011-02-16 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo,3.96
+2011-03-19 00:00:00,Lijnbaansgracht 120bg,Amsterdam,3.96
+2011-04-19 00:00:00,1033 N Park Ave,Tucson,3.96
+2011-05-20 00:00:00,Rilská 3174/6,Prague,3.96
+2011-07-21 00:00:00,69 Salem Street,Boston,3.96
+2011-08-21 00:00:00,Theodor-Heuss-Straße 34,Stuttgart,3.96
+2011-09-21 00:00:00,"8, Rue Hanovre",Paris,3.96
+2011-10-22 00:00:00,1 Infinite Loop,Cupertino,3.96
+2011-11-22 00:00:00,"Calle Lira, 198",Santiago,3.96
+2011-12-23 00:00:00,Tauentzienstraße 8,Berlin,3.96
+2012-01-23 00:00:00,700 W Pender Street,Vancouver,3.96
+2012-02-23 00:00:00,113 Lupus St,London,3.96
+2012-03-25 00:00:00,696 Osborne Street,Winnipeg,3.96
+2012-04-25 00:00:00,"Av. Paulista, 2022",São Paulo,3.96
+2012-05-26 00:00:00,Ordynacka 10,Warsaw,3.96
+2012-06-26 00:00:00,302 S 700 E,Salt Lake City,3.96
+2012-07-27 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,3.96
+2012-08-27 00:00:00,Erzsébet krt. 58.,Budapest,3.96
+2012-10-28 00:00:00,1498 rue Bélanger,Montréal,3.96
+2012-11-28 00:00:00,"11, Place Bellecour",Lyon,3.96
+2012-12-29 00:00:00,541 Del Medio Avenue,Mountain View,3.96
+2013-01-29 00:00:00,"12,Community Centre",Delhi,3.96
+2013-03-01 00:00:00,Berger Straße 10,Frankfurt,3.96
+2013-04-01 00:00:00,1600 Amphitheatre Parkway,Mountain View,3.96
+2013-05-02 00:00:00,110 Raeburn Pl,Edinburgh ,3.96
+2013-06-02 00:00:00,5112 48 Street,Yellowknife,3.96
+2013-07-03 00:00:00,"Praça Pio X, 119",Rio de Janeiro,3.96
+2013-08-03 00:00:00,C/ San Bernardo 85,Madrid,3.96
+2013-09-03 00:00:00,796 Dundas Street West,Toronto,3.96
+2013-10-04 00:00:00,Grétrystraat 63,Brussels,3.96
+2013-11-04 00:00:00,3 Chatham Street,Dublin,3.96
+2013-12-05 00:00:00,319 N. Frances Street,Madison,3.96
+2011-06-19 00:00:00,"8, Rue Hanovre",Paris,2.98
+2010-02-26 00:00:00,"3,Raj Bhavan Road",Bangalore,1.99
+2011-06-06 00:00:00,"4, Rue Milton",Paris,1.99
+2012-09-13 00:00:00,1 Infinite Loop,Cupertino,1.99
+2013-12-22 00:00:00,"12,Community Centre",Delhi,1.99
+2009-01-01 00:00:00,Theodor-Heuss-Straße 34,Stuttgart,1.98
+2009-02-01 00:00:00,Barbarossastraße 19,Berlin,1.98
+2009-02-01 00:00:00,"8, Rue Hanovre",Paris,1.98
+2009-03-04 00:00:00,1 Microsoft Way,Redmond,1.98
+2009-03-04 00:00:00,1 Infinite Loop,Cupertino,1.98
+2009-04-04 00:00:00,421 Bourke Street,Sidney,1.98
+2009-04-04 00:00:00,"Calle Lira, 198",Santiago,1.98
+2009-05-05 00:00:00,Rua da Assunção 53,Lisbon,1.98
+2009-05-05 00:00:00,Tauentzienstraße 8,Berlin,1.98
+2009-06-05 00:00:00,Qe 7 Bloco G,Brasília,1.98
+2009-06-05 00:00:00,700 W Pender Street,Vancouver,1.98
+2009-07-06 00:00:00,Celsiusg. 9,Stockholm,1.98
+2009-07-06 00:00:00,113 Lupus St,London,1.98
+2009-08-06 00:00:00,230 Elgin Street,Ottawa,1.98
+2009-08-06 00:00:00,696 Osborne Street,Winnipeg,1.98
+2009-09-06 00:00:00,Sønder Boulevard 51,Copenhagen,1.98
+2009-09-06 00:00:00,"Av. Paulista, 2022",São Paulo,1.98
+2009-10-07 00:00:00,"Via Degli Scipioni, 43",Rome,1.98
+2009-10-07 00:00:00,Ordynacka 10,Warsaw,1.98
+2009-11-07 00:00:00,2211 W Berry Street,Fort Worth,1.98
+2009-11-07 00:00:00,302 S 700 E,Salt Lake City,1.98
+2009-12-08 00:00:00,Klanova 9/506,Prague,1.98
+2009-12-08 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,1.98
+2010-01-08 00:00:00,"68, Rue Jouvence",Dijon,1.98
+2010-01-08 00:00:00,Erzsébet krt. 58.,Budapest,1.98
+2010-02-08 00:00:00,120 S Orange Ave,Orlando,1.98
+2010-02-08 00:00:00,162 E Superior Street,Chicago,1.98
+2010-04-11 00:00:00,"4, Rue Milton",Paris,1.98
+2010-04-11 00:00:00,"11, Place Bellecour",Lyon,1.98
+2010-05-12 00:00:00,627 Broadway,New York,1.98
+2010-05-12 00:00:00,541 Del Medio Avenue,Mountain View,1.98
+2010-06-12 00:00:00,307 Macacha Güemes,Buenos Aires,1.98
+2010-06-12 00:00:00,"12,Community Centre",Delhi,1.98
+2010-07-13 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto,1.98
+2010-07-13 00:00:00,Berger Straße 10,Frankfurt,1.98
+2010-08-13 00:00:00,8210 111 ST NW,Edmonton,1.98
+2010-08-13 00:00:00,1600 Amphitheatre Parkway,Mountain View,1.98
+2010-09-13 00:00:00,202 Hoxton Street,London,1.98
+2010-09-13 00:00:00,110 Raeburn Pl,Edinburgh ,1.98
+2010-10-14 00:00:00,194A Chain Lake Drive,Halifax,1.98
+2010-10-14 00:00:00,5112 48 Street,Yellowknife,1.98
+2010-11-14 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo,1.98
+2010-11-14 00:00:00,"Praça Pio X, 119",Rio de Janeiro,1.98
+2010-12-15 00:00:00,Lijnbaansgracht 120bg,Amsterdam,1.98
+2010-12-15 00:00:00,C/ San Bernardo 85,Madrid,1.98
+2011-01-15 00:00:00,1033 N Park Ave,Tucson,1.98
+2011-01-15 00:00:00,796 Dundas Street West,Toronto,1.98
+2011-02-15 00:00:00,Rilská 3174/6,Prague,1.98
+2011-02-15 00:00:00,Grétrystraat 63,Brussels,1.98
+2011-03-18 00:00:00,Porthaninkatu 9,Helsinki,1.98
+2011-03-18 00:00:00,3 Chatham Street,Dublin,1.98
+2011-04-18 00:00:00,69 Salem Street,Boston,1.98
+2011-04-18 00:00:00,319 N. Frances Street,Madison,1.98
+2011-05-19 00:00:00,Theodor-Heuss-Straße 34,Stuttgart,1.98
+2011-05-19 00:00:00,Ullevålsveien 14,Oslo,1.98
+2011-07-20 00:00:00,1 Infinite Loop,Cupertino,1.98
+2011-07-20 00:00:00,801 W 4th Street,Reno,1.98
+2011-08-20 00:00:00,"Calle Lira, 198",Santiago,1.98
+2011-08-20 00:00:00,"3,Raj Bhavan Road",Bangalore,1.98
+2011-09-20 00:00:00,Tauentzienstraße 8,Berlin,1.98
+2011-09-20 00:00:00,Barbarossastraße 19,Berlin,1.98
+2011-10-21 00:00:00,700 W Pender Street,Vancouver,1.98
+2011-10-21 00:00:00,1 Microsoft Way,Redmond,1.98
+2011-11-21 00:00:00,113 Lupus St,London,1.98
+2011-11-21 00:00:00,421 Bourke Street,Sidney,1.98
+2011-12-22 00:00:00,696 Osborne Street,Winnipeg,1.98
+2011-12-22 00:00:00,Rua da Assunção 53,Lisbon,1.98
+2012-01-22 00:00:00,"Av. Paulista, 2022",São Paulo,1.98
+2012-01-22 00:00:00,Qe 7 Bloco G,Brasília,1.98
+2012-02-22 00:00:00,Ordynacka 10,Warsaw,1.98
+2012-02-22 00:00:00,Celsiusg. 9,Stockholm,1.98
+2012-03-24 00:00:00,302 S 700 E,Salt Lake City,1.98
+2012-03-24 00:00:00,230 Elgin Street,Ottawa,1.98
+2012-04-24 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,1.98
+2012-04-24 00:00:00,Sønder Boulevard 51,Copenhagen,1.98
+2012-05-25 00:00:00,Erzsébet krt. 58.,Budapest,1.98
+2012-05-25 00:00:00,"Via Degli Scipioni, 43",Rome,1.98
+2012-06-25 00:00:00,162 E Superior Street,Chicago,1.98
+2012-06-25 00:00:00,2211 W Berry Street,Fort Worth,1.98
+2012-07-26 00:00:00,1498 rue Bélanger,Montréal,1.98
+2012-07-26 00:00:00,Klanova 9/506,Prague,1.98
+2012-08-26 00:00:00,"11, Place Bellecour",Lyon,1.98
+2012-08-26 00:00:00,"68, Rue Jouvence",Dijon,1.98
+2012-10-27 00:00:00,"12,Community Centre",Delhi,1.98
+2012-10-27 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,1.98
+2012-11-27 00:00:00,Berger Straße 10,Frankfurt,1.98
+2012-11-27 00:00:00,"4, Rue Milton",Paris,1.98
+2012-12-28 00:00:00,1600 Amphitheatre Parkway,Mountain View,1.98
+2012-12-28 00:00:00,627 Broadway,New York,1.98
+2013-01-28 00:00:00,110 Raeburn Pl,Edinburgh ,1.98
+2013-01-28 00:00:00,307 Macacha Güemes,Buenos Aires,1.98
+2013-02-28 00:00:00,5112 48 Street,Yellowknife,1.98
+2013-02-28 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto,1.98
+2013-03-31 00:00:00,"Praça Pio X, 119",Rio de Janeiro,1.98
+2013-03-31 00:00:00,8210 111 ST NW,Edmonton,1.98
+2013-05-01 00:00:00,C/ San Bernardo 85,Madrid,1.98
+2013-05-01 00:00:00,202 Hoxton Street,London,1.98
+2013-06-01 00:00:00,796 Dundas Street West,Toronto,1.98
+2013-06-01 00:00:00,194A Chain Lake Drive,Halifax,1.98
+2013-07-02 00:00:00,Grétrystraat 63,Brussels,1.98
+2013-07-02 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo,1.98
+2013-08-02 00:00:00,3 Chatham Street,Dublin,1.98
+2013-08-02 00:00:00,Lijnbaansgracht 120bg,Amsterdam,1.98
+2013-09-02 00:00:00,319 N. Frances Street,Madison,1.98
+2013-09-02 00:00:00,1033 N Park Ave,Tucson,1.98
+2013-10-03 00:00:00,Ullevålsveien 14,Oslo,1.98
+2013-10-03 00:00:00,Rilská 3174/6,Prague,1.98
+2013-11-03 00:00:00,"9, Place Louis Barthou",Bordeaux,1.98
+2013-11-03 00:00:00,Porthaninkatu 9,Helsinki,1.98
+2013-12-04 00:00:00,801 W 4th Street,Reno,1.98
+2013-12-04 00:00:00,69 Salem Street,Boston,1.98
+2009-01-19 00:00:00,Berger Straße 10,Frankfurt,0.99
+2009-02-19 00:00:00,1600 Amphitheatre Parkway,Mountain View,0.99
+2009-03-22 00:00:00,110 Raeburn Pl,Edinburgh ,0.99
+2009-04-22 00:00:00,5112 48 Street,Yellowknife,0.99
+2009-05-23 00:00:00,"Praça Pio X, 119",Rio de Janeiro,0.99
+2009-06-23 00:00:00,C/ San Bernardo 85,Madrid,0.99
+2009-07-24 00:00:00,796 Dundas Street West,Toronto,0.99
+2009-08-24 00:00:00,Grétrystraat 63,Brussels,0.99
+2009-09-24 00:00:00,3 Chatham Street,Dublin,0.99
+2009-10-25 00:00:00,319 N. Frances Street,Madison,0.99
+2009-11-25 00:00:00,Ullevålsveien 14,Oslo,0.99
+2009-12-26 00:00:00,"9, Place Louis Barthou",Bordeaux,0.99
+2010-01-26 00:00:00,801 W 4th Street,Reno,0.99
+2010-03-29 00:00:00,Barbarossastraße 19,Berlin,0.99
+2010-04-29 00:00:00,1 Microsoft Way,Redmond,0.99
+2010-05-30 00:00:00,421 Bourke Street,Sidney,0.99
+2010-06-30 00:00:00,Rua da Assunção 53,Lisbon,0.99
+2010-07-31 00:00:00,Qe 7 Bloco G,Brasília,0.99
+2010-08-31 00:00:00,Celsiusg. 9,Stockholm,0.99
+2010-10-01 00:00:00,230 Elgin Street,Ottawa,0.99
+2010-11-01 00:00:00,Sønder Boulevard 51,Copenhagen,0.99
+2010-12-02 00:00:00,"Via Degli Scipioni, 43",Rome,0.99
+2011-01-02 00:00:00,2211 W Berry Street,Fort Worth,0.99
+2011-02-02 00:00:00,Klanova 9/506,Prague,0.99
+2011-03-05 00:00:00,"68, Rue Jouvence",Dijon,0.99
+2011-04-05 00:00:00,120 S Orange Ave,Orlando,0.99
+2011-05-06 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,0.99
+2011-07-07 00:00:00,627 Broadway,New York,0.99
+2011-08-07 00:00:00,307 Macacha Güemes,Buenos Aires,0.99
+2011-09-07 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto,0.99
+2011-10-08 00:00:00,8210 111 ST NW,Edmonton,0.99
+2011-11-08 00:00:00,202 Hoxton Street,London,0.99
+2011-12-09 00:00:00,194A Chain Lake Drive,Halifax,0.99
+2012-01-09 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo,0.99
+2012-02-09 00:00:00,Lijnbaansgracht 120bg,Amsterdam,0.99
+2012-03-11 00:00:00,1033 N Park Ave,Tucson,0.99
+2012-04-11 00:00:00,Rilská 3174/6,Prague,0.99
+2012-05-12 00:00:00,Porthaninkatu 9,Helsinki,0.99
+2012-06-12 00:00:00,69 Salem Street,Boston,0.99
+2012-07-13 00:00:00,Theodor-Heuss-Straße 34,Stuttgart,0.99
+2012-08-13 00:00:00,"8, Rue Hanovre",Paris,0.99
+2012-10-14 00:00:00,"Calle Lira, 198",Santiago,0.99
+2012-11-14 00:00:00,Tauentzienstraße 8,Berlin,0.99
+2012-12-15 00:00:00,700 W Pender Street,Vancouver,0.99
+2013-01-15 00:00:00,113 Lupus St,London,0.99
+2013-02-15 00:00:00,696 Osborne Street,Winnipeg,0.99
+2013-03-18 00:00:00,"Av. Paulista, 2022",São Paulo,0.99
+2013-04-18 00:00:00,Ordynacka 10,Warsaw,0.99
+2013-05-19 00:00:00,302 S 700 E,Salt Lake City,0.99
+2013-06-19 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,0.99
+2013-07-20 00:00:00,Erzsébet krt. 58.,Budapest,0.99
+2013-08-20 00:00:00,162 E Superior Street,Chicago,0.99
+2013-09-20 00:00:00,1498 rue Bélanger,Montréal,0.99
+2013-10-21 00:00:00,"11, Place Bellecour",Lyon,0.99
+2013-11-21 00:00:00,541 Del Medio Avenue,Mountain View,0.99

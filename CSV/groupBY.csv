@@ -1,0 +1,55 @@
+BillingCity,"round(avg(total),2)"
+,1000.86
+Amsterdam,5.8
+Bangalore,6.11
+Berlin,5.37
+Bordeaux,5.66
+Boston,5.37
+Brasília,5.37
+Brussels,5.37
+Budapest,6.52
+Buenos Aires,5.37
+Chicago,6.23
+Copenhagen,5.37
+Cupertino,5.52
+Delhi,5.52
+Dijon,5.8
+Dublin,6.52
+Edinburgh ,5.37
+Edmonton,5.37
+Fort Worth,6.8
+Frankfurt,6.23
+Halifax,5.37
+Helsinki,5.95
+Lisbon,5.66
+London,5.37
+Lyon,5.37
+Madison,6.09
+Madrid,5.37
+Montréal,5.66
+Mountain View,5.52
+New York,5.37
+Orlando,5.66
+Oslo,5.66
+Ottawa,5.37
+Paris,5.52
+Porto,5.37
+Prague,6.45
+Redmond,5.66
+Reno,5.37
+Rio de Janeiro,5.37
+Rome,5.37
+Salt Lake City,6.23
+Santiago,6.66
+Sidney,5.37
+Stockholm,5.52
+Stuttgart,5.37
+São José dos Campos,5.66
+São Paulo,5.37
+Toronto,5.37
+Tucson,5.37
+Vancouver,5.52
+Vienne,6.09
+Warsaw,5.37
+Winnipeg,5.37
+Yellowknife,5.37

@@ -1,0 +1,414 @@
+InvoiceDate,BillingAddress,BillingCity,Total,PurchaseType
+2011-11-01 00:00:00,,,1000.86,Top Performer
+2009-05-10 00:00:00,Lijnbaansgracht 120bg,Amsterdam,8.91,Target Purchase
+2010-12-15 00:00:00,Lijnbaansgracht 120bg,Amsterdam,1.98,Baseline Purchase
+2011-03-19 00:00:00,Lijnbaansgracht 120bg,Amsterdam,3.96,Low Purchase
+2011-06-21 00:00:00,Lijnbaansgracht 120bg,Amsterdam,8.94,Target Purchase
+2012-02-09 00:00:00,Lijnbaansgracht 120bg,Amsterdam,0.99,Baseline Purchase
+2013-08-02 00:00:00,Lijnbaansgracht 120bg,Amsterdam,1.98,Baseline Purchase
+2013-09-12 00:00:00,Lijnbaansgracht 120bg,Amsterdam,13.86,Target Purchase
+2009-04-05 00:00:00,"3,Raj Bhavan Road",Bangalore,3.96,Low Purchase
+2009-07-08 00:00:00,"3,Raj Bhavan Road",Bangalore,5.94,Low Purchase
+2010-02-26 00:00:00,"3,Raj Bhavan Road",Bangalore,1.99,Baseline Purchase
+2011-08-20 00:00:00,"3,Raj Bhavan Road",Bangalore,1.98,Baseline Purchase
+2011-09-30 00:00:00,"3,Raj Bhavan Road",Bangalore,13.86,Target Purchase
+2012-05-30 00:00:00,"3,Raj Bhavan Road",Bangalore,8.91,Target Purchase
+2009-02-01 00:00:00,Barbarossastraße 19,Berlin,1.98,Baseline Purchase
+2009-05-05 00:00:00,Tauentzienstraße 8,Berlin,1.98,Baseline Purchase
+2009-05-06 00:00:00,Barbarossastraße 19,Berlin,3.96,Low Purchase
+2009-06-15 00:00:00,Tauentzienstraße 8,Berlin,13.86,Target Purchase
+2009-08-08 00:00:00,Barbarossastraße 19,Berlin,5.94,Low Purchase
+2010-02-13 00:00:00,Tauentzienstraße 8,Berlin,8.91,Target Purchase
+2010-03-29 00:00:00,Barbarossastraße 19,Berlin,0.99,Baseline Purchase
+2011-09-20 00:00:00,Tauentzienstraße 8,Berlin,1.98,Baseline Purchase
+2011-09-20 00:00:00,Barbarossastraße 19,Berlin,1.98,Baseline Purchase
+2011-10-31 00:00:00,Barbarossastraße 19,Berlin,13.86,Target Purchase
+2011-12-23 00:00:00,Tauentzienstraße 8,Berlin,3.96,Low Purchase
+2012-03-26 00:00:00,Tauentzienstraße 8,Berlin,5.94,Low Purchase
+2012-06-30 00:00:00,Barbarossastraße 19,Berlin,8.91,Target Purchase
+2012-11-14 00:00:00,Tauentzienstraße 8,Berlin,0.99,Baseline Purchase
+2009-02-02 00:00:00,"9, Place Louis Barthou",Bordeaux,3.96,Low Purchase
+2009-05-07 00:00:00,"9, Place Louis Barthou",Bordeaux,5.94,Low Purchase
+2009-12-26 00:00:00,"9, Place Louis Barthou",Bordeaux,0.99,Baseline Purchase
+2011-06-19 00:00:00,"9, Place Louis Barthou",Bordeaux,3.98,Low Purchase
+2011-07-30 00:00:00,"9, Place Louis Barthou",Bordeaux,13.86,Target Purchase
+2012-03-29 00:00:00,"9, Place Louis Barthou",Bordeaux,8.91,Target Purchase
+2013-11-03 00:00:00,"9, Place Louis Barthou",Bordeaux,1.98,Baseline Purchase
+2009-01-11 00:00:00,69 Salem Street,Boston,13.86,Target Purchase
+2009-09-11 00:00:00,69 Salem Street,Boston,8.91,Target Purchase
+2011-04-18 00:00:00,69 Salem Street,Boston,1.98,Baseline Purchase
+2011-07-21 00:00:00,69 Salem Street,Boston,3.96,Low Purchase
+2011-10-23 00:00:00,69 Salem Street,Boston,5.94,Low Purchase
+2012-06-12 00:00:00,69 Salem Street,Boston,0.99,Baseline Purchase
+2013-12-04 00:00:00,69 Salem Street,Boston,1.98,Baseline Purchase
+2009-06-05 00:00:00,Qe 7 Bloco G,Brasília,1.98,Baseline Purchase
+2009-09-07 00:00:00,Qe 7 Bloco G,Brasília,3.96,Low Purchase
+2009-12-10 00:00:00,Qe 7 Bloco G,Brasília,5.94,Low Purchase
+2010-07-31 00:00:00,Qe 7 Bloco G,Brasília,0.99,Baseline Purchase
+2012-01-22 00:00:00,Qe 7 Bloco G,Brasília,1.98,Baseline Purchase
+2012-03-03 00:00:00,Qe 7 Bloco G,Brasília,13.86,Target Purchase
+2012-11-01 00:00:00,Qe 7 Bloco G,Brasília,8.91,Target Purchase
+2009-01-03 00:00:00,Grétrystraat 63,Brussels,5.94,Low Purchase
+2009-08-24 00:00:00,Grétrystraat 63,Brussels,0.99,Baseline Purchase
+2011-02-15 00:00:00,Grétrystraat 63,Brussels,1.98,Baseline Purchase
+2011-03-28 00:00:00,Grétrystraat 63,Brussels,13.86,Target Purchase
+2011-11-26 00:00:00,Grétrystraat 63,Brussels,8.91,Target Purchase
+2013-07-02 00:00:00,Grétrystraat 63,Brussels,1.98,Baseline Purchase
+2013-10-04 00:00:00,Grétrystraat 63,Brussels,3.96,Low Purchase
+2010-01-08 00:00:00,Erzsébet krt. 58.,Budapest,1.98,Baseline Purchase
+2010-02-18 00:00:00,Erzsébet krt. 58.,Budapest,21.86,Top Performer
+2010-10-19 00:00:00,Erzsébet krt. 58.,Budapest,8.91,Target Purchase
+2012-05-25 00:00:00,Erzsébet krt. 58.,Budapest,1.98,Baseline Purchase
+2012-08-27 00:00:00,Erzsébet krt. 58.,Budapest,3.96,Low Purchase
+2012-11-29 00:00:00,Erzsébet krt. 58.,Budapest,5.94,Low Purchase
+2013-07-20 00:00:00,Erzsébet krt. 58.,Budapest,0.99,Baseline Purchase
+2010-06-12 00:00:00,307 Macacha Güemes,Buenos Aires,1.98,Baseline Purchase
+2010-09-14 00:00:00,307 Macacha Güemes,Buenos Aires,3.96,Low Purchase
+2010-12-17 00:00:00,307 Macacha Güemes,Buenos Aires,5.94,Low Purchase
+2011-08-07 00:00:00,307 Macacha Güemes,Buenos Aires,0.99,Baseline Purchase
+2013-01-28 00:00:00,307 Macacha Güemes,Buenos Aires,1.98,Baseline Purchase
+2013-03-10 00:00:00,307 Macacha Güemes,Buenos Aires,13.86,Target Purchase
+2013-11-08 00:00:00,307 Macacha Güemes,Buenos Aires,8.91,Target Purchase
+2010-02-08 00:00:00,162 E Superior Street,Chicago,1.98,Baseline Purchase
+2010-03-21 00:00:00,162 E Superior Street,Chicago,15.86,Top Performer
+2010-11-19 00:00:00,162 E Superior Street,Chicago,8.91,Target Purchase
+2012-06-25 00:00:00,162 E Superior Street,Chicago,1.98,Baseline Purchase
+2012-09-27 00:00:00,162 E Superior Street,Chicago,7.96,Target Purchase
+2012-12-30 00:00:00,162 E Superior Street,Chicago,5.94,Low Purchase
+2013-08-20 00:00:00,162 E Superior Street,Chicago,0.99,Baseline Purchase
+2009-09-06 00:00:00,Sønder Boulevard 51,Copenhagen,1.98,Baseline Purchase
+2009-12-09 00:00:00,Sønder Boulevard 51,Copenhagen,3.96,Low Purchase
+2010-03-13 00:00:00,Sønder Boulevard 51,Copenhagen,5.94,Low Purchase
+2010-11-01 00:00:00,Sønder Boulevard 51,Copenhagen,0.99,Baseline Purchase
+2012-04-24 00:00:00,Sønder Boulevard 51,Copenhagen,1.98,Baseline Purchase
+2012-06-04 00:00:00,Sønder Boulevard 51,Copenhagen,13.86,Target Purchase
+2013-02-02 00:00:00,Sønder Boulevard 51,Copenhagen,8.91,Target Purchase
+2009-03-04 00:00:00,1 Infinite Loop,Cupertino,1.98,Baseline Purchase
+2009-04-14 00:00:00,1 Infinite Loop,Cupertino,13.86,Target Purchase
+2009-12-13 00:00:00,1 Infinite Loop,Cupertino,8.91,Target Purchase
+2011-07-20 00:00:00,1 Infinite Loop,Cupertino,1.98,Baseline Purchase
+2011-10-22 00:00:00,1 Infinite Loop,Cupertino,3.96,Low Purchase
+2012-01-24 00:00:00,1 Infinite Loop,Cupertino,5.94,Low Purchase
+2012-09-13 00:00:00,1 Infinite Loop,Cupertino,1.99,Baseline Purchase
+2010-06-12 00:00:00,"12,Community Centre",Delhi,1.98,Baseline Purchase
+2010-07-23 00:00:00,"12,Community Centre",Delhi,13.86,Target Purchase
+2011-03-23 00:00:00,"12,Community Centre",Delhi,8.91,Target Purchase
+2012-10-27 00:00:00,"12,Community Centre",Delhi,1.98,Baseline Purchase
+2013-01-29 00:00:00,"12,Community Centre",Delhi,3.96,Low Purchase
+2013-05-03 00:00:00,"12,Community Centre",Delhi,5.94,Low Purchase
+2013-12-22 00:00:00,"12,Community Centre",Delhi,1.99,Baseline Purchase
+2010-01-08 00:00:00,"68, Rue Jouvence",Dijon,1.98,Baseline Purchase
+2010-04-12 00:00:00,"68, Rue Jouvence",Dijon,3.96,Low Purchase
+2010-07-15 00:00:00,"68, Rue Jouvence",Dijon,5.94,Low Purchase
+2011-03-05 00:00:00,"68, Rue Jouvence",Dijon,0.99,Baseline Purchase
+2012-08-26 00:00:00,"68, Rue Jouvence",Dijon,1.98,Baseline Purchase
+2012-10-06 00:00:00,"68, Rue Jouvence",Dijon,16.86,Top Performer
+2013-06-06 00:00:00,"68, Rue Jouvence",Dijon,8.91,Target Purchase
+2009-02-03 00:00:00,3 Chatham Street,Dublin,5.94,Low Purchase
+2009-09-24 00:00:00,3 Chatham Street,Dublin,0.99,Baseline Purchase
+2011-03-18 00:00:00,3 Chatham Street,Dublin,1.98,Baseline Purchase
+2011-04-28 00:00:00,3 Chatham Street,Dublin,21.86,Top Performer
+2011-12-27 00:00:00,3 Chatham Street,Dublin,8.91,Target Purchase
+2013-08-02 00:00:00,3 Chatham Street,Dublin,1.98,Baseline Purchase
+2013-11-04 00:00:00,3 Chatham Street,Dublin,3.96,Low Purchase
+2009-03-22 00:00:00,110 Raeburn Pl,Edinburgh ,0.99,Baseline Purchase
+2010-09-13 00:00:00,110 Raeburn Pl,Edinburgh ,1.98,Baseline Purchase
+2010-10-24 00:00:00,110 Raeburn Pl,Edinburgh ,13.86,Target Purchase
+2011-06-24 00:00:00,110 Raeburn Pl,Edinburgh ,8.91,Target Purchase
+2013-01-28 00:00:00,110 Raeburn Pl,Edinburgh ,1.98,Baseline Purchase
+2013-05-02 00:00:00,110 Raeburn Pl,Edinburgh ,3.96,Low Purchase
+2013-08-04 00:00:00,110 Raeburn Pl,Edinburgh ,5.94,Low Purchase
+2009-01-06 00:00:00,8210 111 ST NW,Edmonton,8.91,Target Purchase
+2010-08-13 00:00:00,8210 111 ST NW,Edmonton,1.98,Baseline Purchase
+2010-11-15 00:00:00,8210 111 ST NW,Edmonton,3.96,Low Purchase
+2011-02-17 00:00:00,8210 111 ST NW,Edmonton,5.94,Low Purchase
+2011-10-08 00:00:00,8210 111 ST NW,Edmonton,0.99,Baseline Purchase
+2013-03-31 00:00:00,8210 111 ST NW,Edmonton,1.98,Baseline Purchase
+2013-05-11 00:00:00,8210 111 ST NW,Edmonton,13.86,Target Purchase
+2009-11-07 00:00:00,2211 W Berry Street,Fort Worth,1.98,Baseline Purchase
+2010-02-09 00:00:00,2211 W Berry Street,Fort Worth,3.96,Low Purchase
+2010-05-14 00:00:00,2211 W Berry Street,Fort Worth,5.94,Low Purchase
+2011-01-02 00:00:00,2211 W Berry Street,Fort Worth,0.99,Baseline Purchase
+2012-06-25 00:00:00,2211 W Berry Street,Fort Worth,1.98,Baseline Purchase
+2012-08-05 00:00:00,2211 W Berry Street,Fort Worth,23.86,Top Performer
+2013-04-05 00:00:00,2211 W Berry Street,Fort Worth,8.91,Target Purchase
+2009-01-19 00:00:00,Berger Straße 10,Frankfurt,0.99,Baseline Purchase
+2010-07-13 00:00:00,Berger Straße 10,Frankfurt,1.98,Baseline Purchase
+2010-08-23 00:00:00,Berger Straße 10,Frankfurt,13.86,Target Purchase
+2011-04-23 00:00:00,Berger Straße 10,Frankfurt,14.91,Target Purchase
+2012-11-27 00:00:00,Berger Straße 10,Frankfurt,1.98,Baseline Purchase
+2013-03-01 00:00:00,Berger Straße 10,Frankfurt,3.96,Low Purchase
+2013-06-03 00:00:00,Berger Straße 10,Frankfurt,5.94,Low Purchase
+2009-03-09 00:00:00,194A Chain Lake Drive,Halifax,8.91,Target Purchase
+2010-10-14 00:00:00,194A Chain Lake Drive,Halifax,1.98,Baseline Purchase
+2011-01-16 00:00:00,194A Chain Lake Drive,Halifax,3.96,Low Purchase
+2011-04-20 00:00:00,194A Chain Lake Drive,Halifax,5.94,Low Purchase
+2011-12-09 00:00:00,194A Chain Lake Drive,Halifax,0.99,Baseline Purchase
+2013-06-01 00:00:00,194A Chain Lake Drive,Halifax,1.98,Baseline Purchase
+2013-07-12 00:00:00,194A Chain Lake Drive,Halifax,13.86,Target Purchase
+2009-08-11 00:00:00,Porthaninkatu 9,Helsinki,8.91,Target Purchase
+2011-03-18 00:00:00,Porthaninkatu 9,Helsinki,1.98,Baseline Purchase
+2011-06-20 00:00:00,Porthaninkatu 9,Helsinki,7.96,Target Purchase
+2011-09-22 00:00:00,Porthaninkatu 9,Helsinki,5.94,Low Purchase
+2012-05-12 00:00:00,Porthaninkatu 9,Helsinki,0.99,Baseline Purchase
+2013-11-03 00:00:00,Porthaninkatu 9,Helsinki,1.98,Baseline Purchase
+2013-12-14 00:00:00,Porthaninkatu 9,Helsinki,13.86,Target Purchase
+2009-05-05 00:00:00,Rua da Assunção 53,Lisbon,1.98,Baseline Purchase
+2009-08-07 00:00:00,Rua da Assunção 53,Lisbon,3.96,Low Purchase
+2009-11-09 00:00:00,Rua da Assunção 53,Lisbon,5.94,Low Purchase
+2010-06-30 00:00:00,Rua da Assunção 53,Lisbon,0.99,Baseline Purchase
+2011-12-22 00:00:00,Rua da Assunção 53,Lisbon,1.98,Baseline Purchase
+2012-02-01 00:00:00,Rua da Assunção 53,Lisbon,13.86,Target Purchase
+2012-10-01 00:00:00,Rua da Assunção 53,Lisbon,10.91,Target Purchase
+2009-02-06 00:00:00,202 Hoxton Street,London,8.91,Target Purchase
+2009-07-06 00:00:00,113 Lupus St,London,1.98,Baseline Purchase
+2009-08-16 00:00:00,113 Lupus St,London,13.86,Target Purchase
+2010-04-16 00:00:00,113 Lupus St,London,8.91,Target Purchase
+2010-09-13 00:00:00,202 Hoxton Street,London,1.98,Baseline Purchase
+2010-12-16 00:00:00,202 Hoxton Street,London,3.96,Low Purchase
+2011-03-20 00:00:00,202 Hoxton Street,London,5.94,Low Purchase
+2011-11-08 00:00:00,202 Hoxton Street,London,0.99,Baseline Purchase
+2011-11-21 00:00:00,113 Lupus St,London,1.98,Baseline Purchase
+2012-02-23 00:00:00,113 Lupus St,London,3.96,Low Purchase
+2012-05-27 00:00:00,113 Lupus St,London,5.94,Low Purchase
+2013-01-15 00:00:00,113 Lupus St,London,0.99,Baseline Purchase
+2013-05-01 00:00:00,202 Hoxton Street,London,1.98,Baseline Purchase
+2013-06-11 00:00:00,202 Hoxton Street,London,13.86,Target Purchase
+2010-04-11 00:00:00,"11, Place Bellecour",Lyon,1.98,Baseline Purchase
+2010-05-22 00:00:00,"11, Place Bellecour",Lyon,13.86,Target Purchase
+2011-01-20 00:00:00,"11, Place Bellecour",Lyon,8.91,Target Purchase
+2012-08-26 00:00:00,"11, Place Bellecour",Lyon,1.98,Baseline Purchase
+2012-11-28 00:00:00,"11, Place Bellecour",Lyon,3.96,Low Purchase
+2013-03-02 00:00:00,"11, Place Bellecour",Lyon,5.94,Low Purchase
+2013-10-21 00:00:00,"11, Place Bellecour",Lyon,0.99,Baseline Purchase
+2009-03-06 00:00:00,319 N. Frances Street,Madison,5.94,Low Purchase
+2009-10-25 00:00:00,319 N. Frances Street,Madison,0.99,Baseline Purchase
+2011-04-18 00:00:00,319 N. Frances Street,Madison,1.98,Baseline Purchase
+2011-05-29 00:00:00,319 N. Frances Street,Madison,18.86,Top Performer
+2012-01-27 00:00:00,319 N. Frances Street,Madison,8.91,Target Purchase
+2013-09-02 00:00:00,319 N. Frances Street,Madison,1.98,Baseline Purchase
+2013-12-05 00:00:00,319 N. Frances Street,Madison,3.96,Low Purchase
+2009-06-23 00:00:00,C/ San Bernardo 85,Madrid,0.99,Baseline Purchase
+2010-12-15 00:00:00,C/ San Bernardo 85,Madrid,1.98,Baseline Purchase
+2011-01-25 00:00:00,C/ San Bernardo 85,Madrid,13.86,Target Purchase
+2011-09-25 00:00:00,C/ San Bernardo 85,Madrid,8.91,Target Purchase
+2013-05-01 00:00:00,C/ San Bernardo 85,Madrid,1.98,Baseline Purchase
+2013-08-03 00:00:00,C/ San Bernardo 85,Madrid,3.96,Low Purchase
+2013-11-05 00:00:00,C/ San Bernardo 85,Madrid,5.94,Low Purchase
+2010-03-11 00:00:00,1498 rue Bélanger,Montréal,3.98,Low Purchase
+2010-04-21 00:00:00,1498 rue Bélanger,Montréal,13.86,Target Purchase
+2010-12-20 00:00:00,1498 rue Bélanger,Montréal,8.91,Target Purchase
+2012-07-26 00:00:00,1498 rue Bélanger,Montréal,1.98,Baseline Purchase
+2012-10-28 00:00:00,1498 rue Bélanger,Montréal,3.96,Low Purchase
+2013-01-30 00:00:00,1498 rue Bélanger,Montréal,5.94,Low Purchase
+2013-09-20 00:00:00,1498 rue Bélanger,Montréal,0.99,Baseline Purchase
+2009-02-19 00:00:00,1600 Amphitheatre Parkway,Mountain View,0.99,Baseline Purchase
+2010-05-12 00:00:00,541 Del Medio Avenue,Mountain View,1.98,Baseline Purchase
+2010-06-22 00:00:00,541 Del Medio Avenue,Mountain View,13.86,Target Purchase
+2010-08-13 00:00:00,1600 Amphitheatre Parkway,Mountain View,1.98,Baseline Purchase
+2010-09-23 00:00:00,1600 Amphitheatre Parkway,Mountain View,13.86,Target Purchase
+2011-02-20 00:00:00,541 Del Medio Avenue,Mountain View,8.91,Target Purchase
+2011-05-24 00:00:00,1600 Amphitheatre Parkway,Mountain View,8.91,Target Purchase
+2012-09-26 00:00:00,541 Del Medio Avenue,Mountain View,3.98,Low Purchase
+2012-12-28 00:00:00,1600 Amphitheatre Parkway,Mountain View,1.98,Baseline Purchase
+2012-12-29 00:00:00,541 Del Medio Avenue,Mountain View,3.96,Low Purchase
+2013-04-01 00:00:00,1600 Amphitheatre Parkway,Mountain View,3.96,Low Purchase
+2013-04-02 00:00:00,541 Del Medio Avenue,Mountain View,5.94,Low Purchase
+2013-07-04 00:00:00,1600 Amphitheatre Parkway,Mountain View,5.94,Low Purchase
+2013-11-21 00:00:00,541 Del Medio Avenue,Mountain View,0.99,Baseline Purchase
+2010-05-12 00:00:00,627 Broadway,New York,1.98,Baseline Purchase
+2010-08-14 00:00:00,627 Broadway,New York,3.96,Low Purchase
+2010-11-16 00:00:00,627 Broadway,New York,5.94,Low Purchase
+2011-07-07 00:00:00,627 Broadway,New York,0.99,Baseline Purchase
+2012-12-28 00:00:00,627 Broadway,New York,1.98,Baseline Purchase
+2013-02-07 00:00:00,627 Broadway,New York,13.86,Target Purchase
+2013-10-08 00:00:00,627 Broadway,New York,8.91,Target Purchase
+2010-02-08 00:00:00,120 S Orange Ave,Orlando,1.98,Baseline Purchase
+2010-05-13 00:00:00,120 S Orange Ave,Orlando,3.96,Low Purchase
+2010-08-15 00:00:00,120 S Orange Ave,Orlando,5.94,Low Purchase
+2011-04-05 00:00:00,120 S Orange Ave,Orlando,0.99,Baseline Purchase
+2012-09-26 00:00:00,120 S Orange Ave,Orlando,3.98,Low Purchase
+2012-11-06 00:00:00,120 S Orange Ave,Orlando,13.86,Target Purchase
+2013-07-07 00:00:00,120 S Orange Ave,Orlando,8.91,Target Purchase
+2009-01-02 00:00:00,Ullevålsveien 14,Oslo,3.96,Low Purchase
+2009-04-06 00:00:00,Ullevålsveien 14,Oslo,5.94,Low Purchase
+2009-11-25 00:00:00,Ullevålsveien 14,Oslo,0.99,Baseline Purchase
+2011-05-19 00:00:00,Ullevålsveien 14,Oslo,1.98,Baseline Purchase
+2011-06-29 00:00:00,Ullevålsveien 14,Oslo,15.86,Top Performer
+2012-02-27 00:00:00,Ullevålsveien 14,Oslo,8.91,Target Purchase
+2013-10-03 00:00:00,Ullevålsveien 14,Oslo,1.98,Baseline Purchase
+2009-08-06 00:00:00,230 Elgin Street,Ottawa,1.98,Baseline Purchase
+2009-11-08 00:00:00,230 Elgin Street,Ottawa,3.96,Low Purchase
+2010-02-10 00:00:00,230 Elgin Street,Ottawa,5.94,Low Purchase
+2010-10-01 00:00:00,230 Elgin Street,Ottawa,0.99,Baseline Purchase
+2012-03-24 00:00:00,230 Elgin Street,Ottawa,1.98,Baseline Purchase
+2012-05-04 00:00:00,230 Elgin Street,Ottawa,13.86,Target Purchase
+2013-01-02 00:00:00,230 Elgin Street,Ottawa,8.91,Target Purchase
+2009-02-01 00:00:00,"8, Rue Hanovre",Paris,1.98,Baseline Purchase
+2009-03-14 00:00:00,"8, Rue Hanovre",Paris,13.86,Target Purchase
+2009-11-12 00:00:00,"8, Rue Hanovre",Paris,8.91,Target Purchase
+2010-04-11 00:00:00,"4, Rue Milton",Paris,1.98,Baseline Purchase
+2010-07-14 00:00:00,"4, Rue Milton",Paris,3.96,Low Purchase
+2010-10-16 00:00:00,"4, Rue Milton",Paris,5.94,Low Purchase
+2011-06-06 00:00:00,"4, Rue Milton",Paris,1.99,Baseline Purchase
+2011-06-19 00:00:00,"8, Rue Hanovre",Paris,2.98,Low Purchase
+2011-09-21 00:00:00,"8, Rue Hanovre",Paris,3.96,Low Purchase
+2011-12-24 00:00:00,"8, Rue Hanovre",Paris,5.94,Low Purchase
+2012-08-13 00:00:00,"8, Rue Hanovre",Paris,0.99,Baseline Purchase
+2012-11-27 00:00:00,"4, Rue Milton",Paris,1.98,Baseline Purchase
+2013-01-07 00:00:00,"4, Rue Milton",Paris,13.86,Target Purchase
+2013-09-07 00:00:00,"4, Rue Milton",Paris,8.91,Target Purchase
+2010-07-13 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto,1.98,Baseline Purchase
+2010-10-15 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto,3.96,Low Purchase
+2011-01-17 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto,5.94,Low Purchase
+2011-09-07 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto,0.99,Baseline Purchase
+2013-02-28 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto,1.98,Baseline Purchase
+2013-04-10 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto,13.86,Target Purchase
+2013-12-09 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto,8.91,Target Purchase
+2009-07-11 00:00:00,Rilská 3174/6,Prague,8.91,Target Purchase
+2009-12-08 00:00:00,Klanova 9/506,Prague,1.98,Baseline Purchase
+2010-03-12 00:00:00,Klanova 9/506,Prague,3.96,Low Purchase
+2010-06-14 00:00:00,Klanova 9/506,Prague,5.94,Low Purchase
+2011-02-02 00:00:00,Klanova 9/506,Prague,0.99,Baseline Purchase
+2011-02-15 00:00:00,Rilská 3174/6,Prague,1.98,Baseline Purchase
+2011-05-20 00:00:00,Rilská 3174/6,Prague,3.96,Low Purchase
+2011-08-22 00:00:00,Rilská 3174/6,Prague,5.94,Low Purchase
+2012-04-11 00:00:00,Rilská 3174/6,Prague,0.99,Baseline Purchase
+2012-07-26 00:00:00,Klanova 9/506,Prague,1.98,Baseline Purchase
+2012-09-05 00:00:00,Klanova 9/506,Prague,16.86,Top Performer
+2013-05-06 00:00:00,Klanova 9/506,Prague,8.91,Target Purchase
+2013-10-03 00:00:00,Rilská 3174/6,Prague,1.98,Baseline Purchase
+2013-11-13 00:00:00,Rilská 3174/6,Prague,25.86,Top Performer
+2009-03-04 00:00:00,1 Microsoft Way,Redmond,1.98,Baseline Purchase
+2009-06-06 00:00:00,1 Microsoft Way,Redmond,3.96,Low Purchase
+2009-09-08 00:00:00,1 Microsoft Way,Redmond,5.94,Low Purchase
+2010-04-29 00:00:00,1 Microsoft Way,Redmond,0.99,Baseline Purchase
+2011-10-21 00:00:00,1 Microsoft Way,Redmond,1.98,Baseline Purchase
+2011-12-01 00:00:00,1 Microsoft Way,Redmond,13.86,Target Purchase
+2012-07-31 00:00:00,1 Microsoft Way,Redmond,10.91,Target Purchase
+2009-03-05 00:00:00,801 W 4th Street,Reno,3.96,Low Purchase
+2009-06-07 00:00:00,801 W 4th Street,Reno,5.94,Low Purchase
+2010-01-26 00:00:00,801 W 4th Street,Reno,0.99,Baseline Purchase
+2011-07-20 00:00:00,801 W 4th Street,Reno,1.98,Baseline Purchase
+2011-08-30 00:00:00,801 W 4th Street,Reno,13.86,Target Purchase
+2012-04-29 00:00:00,801 W 4th Street,Reno,8.91,Target Purchase
+2013-12-04 00:00:00,801 W 4th Street,Reno,1.98,Baseline Purchase
+2009-05-23 00:00:00,"Praça Pio X, 119",Rio de Janeiro,0.99,Baseline Purchase
+2010-11-14 00:00:00,"Praça Pio X, 119",Rio de Janeiro,1.98,Baseline Purchase
+2010-12-25 00:00:00,"Praça Pio X, 119",Rio de Janeiro,13.86,Target Purchase
+2011-08-25 00:00:00,"Praça Pio X, 119",Rio de Janeiro,8.91,Target Purchase
+2013-03-31 00:00:00,"Praça Pio X, 119",Rio de Janeiro,1.98,Baseline Purchase
+2013-07-03 00:00:00,"Praça Pio X, 119",Rio de Janeiro,3.96,Low Purchase
+2013-10-05 00:00:00,"Praça Pio X, 119",Rio de Janeiro,5.94,Low Purchase
+2009-10-07 00:00:00,"Via Degli Scipioni, 43",Rome,1.98,Baseline Purchase
+2010-01-09 00:00:00,"Via Degli Scipioni, 43",Rome,3.96,Low Purchase
+2010-04-13 00:00:00,"Via Degli Scipioni, 43",Rome,5.94,Low Purchase
+2010-12-02 00:00:00,"Via Degli Scipioni, 43",Rome,0.99,Baseline Purchase
+2012-05-25 00:00:00,"Via Degli Scipioni, 43",Rome,1.98,Baseline Purchase
+2012-07-05 00:00:00,"Via Degli Scipioni, 43",Rome,13.86,Target Purchase
+2013-03-05 00:00:00,"Via Degli Scipioni, 43",Rome,8.91,Target Purchase
+2009-11-07 00:00:00,302 S 700 E,Salt Lake City,1.98,Baseline Purchase
+2009-12-18 00:00:00,302 S 700 E,Salt Lake City,13.86,Target Purchase
+2010-08-18 00:00:00,302 S 700 E,Salt Lake City,8.91,Target Purchase
+2012-03-24 00:00:00,302 S 700 E,Salt Lake City,1.98,Baseline Purchase
+2012-06-26 00:00:00,302 S 700 E,Salt Lake City,3.96,Low Purchase
+2012-09-28 00:00:00,302 S 700 E,Salt Lake City,11.94,Target Purchase
+2013-05-19 00:00:00,302 S 700 E,Salt Lake City,0.99,Baseline Purchase
+2009-04-04 00:00:00,"Calle Lira, 198",Santiago,1.98,Baseline Purchase
+2009-05-15 00:00:00,"Calle Lira, 198",Santiago,13.86,Target Purchase
+2010-01-13 00:00:00,"Calle Lira, 198",Santiago,17.91,Top Performer
+2011-08-20 00:00:00,"Calle Lira, 198",Santiago,1.98,Baseline Purchase
+2011-11-22 00:00:00,"Calle Lira, 198",Santiago,3.96,Low Purchase
+2012-02-24 00:00:00,"Calle Lira, 198",Santiago,5.94,Low Purchase
+2012-10-14 00:00:00,"Calle Lira, 198",Santiago,0.99,Baseline Purchase
+2009-04-04 00:00:00,421 Bourke Street,Sidney,1.98,Baseline Purchase
+2009-07-07 00:00:00,421 Bourke Street,Sidney,3.96,Low Purchase
+2009-10-09 00:00:00,421 Bourke Street,Sidney,5.94,Low Purchase
+2010-05-30 00:00:00,421 Bourke Street,Sidney,0.99,Baseline Purchase
+2011-11-21 00:00:00,421 Bourke Street,Sidney,1.98,Baseline Purchase
+2012-01-01 00:00:00,421 Bourke Street,Sidney,13.86,Target Purchase
+2012-08-31 00:00:00,421 Bourke Street,Sidney,8.91,Target Purchase
+2009-07-06 00:00:00,Celsiusg. 9,Stockholm,1.98,Baseline Purchase
+2009-10-08 00:00:00,Celsiusg. 9,Stockholm,3.96,Low Purchase
+2010-01-10 00:00:00,Celsiusg. 9,Stockholm,6.94,Low Purchase
+2010-08-31 00:00:00,Celsiusg. 9,Stockholm,0.99,Baseline Purchase
+2012-02-22 00:00:00,Celsiusg. 9,Stockholm,1.98,Baseline Purchase
+2012-04-03 00:00:00,Celsiusg. 9,Stockholm,13.86,Target Purchase
+2012-12-02 00:00:00,Celsiusg. 9,Stockholm,8.91,Target Purchase
+2009-01-01 00:00:00,Theodor-Heuss-Straße 34,Stuttgart,1.98,Baseline Purchase
+2009-02-11 00:00:00,Theodor-Heuss-Straße 34,Stuttgart,13.86,Target Purchase
+2009-10-12 00:00:00,Theodor-Heuss-Straße 34,Stuttgart,8.91,Target Purchase
+2011-05-19 00:00:00,Theodor-Heuss-Straße 34,Stuttgart,1.98,Baseline Purchase
+2011-08-21 00:00:00,Theodor-Heuss-Straße 34,Stuttgart,3.96,Low Purchase
+2011-11-23 00:00:00,Theodor-Heuss-Straße 34,Stuttgart,5.94,Low Purchase
+2012-07-13 00:00:00,Theodor-Heuss-Straße 34,Stuttgart,0.99,Baseline Purchase
+2010-03-11 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,3.98,Low Purchase
+2010-06-13 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,3.96,Low Purchase
+2010-09-15 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,5.94,Low Purchase
+2011-05-06 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,0.99,Baseline Purchase
+2012-10-27 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,1.98,Baseline Purchase
+2012-12-07 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,13.86,Target Purchase
+2013-08-07 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,8.91,Target Purchase
+2009-04-09 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo,8.91,Target Purchase
+2009-09-06 00:00:00,"Av. Paulista, 2022",São Paulo,1.98,Baseline Purchase
+2009-10-17 00:00:00,"Av. Paulista, 2022",São Paulo,13.86,Target Purchase
+2010-06-17 00:00:00,"Av. Paulista, 2022",São Paulo,8.91,Target Purchase
+2010-11-14 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo,1.98,Baseline Purchase
+2011-02-16 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo,3.96,Low Purchase
+2011-05-21 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo,5.94,Low Purchase
+2012-01-09 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo,0.99,Baseline Purchase
+2012-01-22 00:00:00,"Av. Paulista, 2022",São Paulo,1.98,Baseline Purchase
+2012-04-25 00:00:00,"Av. Paulista, 2022",São Paulo,3.96,Low Purchase
+2012-07-28 00:00:00,"Av. Paulista, 2022",São Paulo,5.94,Low Purchase
+2013-03-18 00:00:00,"Av. Paulista, 2022",São Paulo,0.99,Baseline Purchase
+2013-07-02 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo,1.98,Baseline Purchase
+2013-08-12 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo,13.86,Target Purchase
+2009-07-24 00:00:00,796 Dundas Street West,Toronto,0.99,Baseline Purchase
+2011-01-15 00:00:00,796 Dundas Street West,Toronto,1.98,Baseline Purchase
+2011-02-25 00:00:00,796 Dundas Street West,Toronto,13.86,Target Purchase
+2011-10-26 00:00:00,796 Dundas Street West,Toronto,8.91,Target Purchase
+2013-06-01 00:00:00,796 Dundas Street West,Toronto,1.98,Baseline Purchase
+2013-09-03 00:00:00,796 Dundas Street West,Toronto,3.96,Low Purchase
+2013-12-06 00:00:00,796 Dundas Street West,Toronto,5.94,Low Purchase
+2009-06-10 00:00:00,1033 N Park Ave,Tucson,8.91,Target Purchase
+2011-01-15 00:00:00,1033 N Park Ave,Tucson,1.98,Baseline Purchase
+2011-04-19 00:00:00,1033 N Park Ave,Tucson,3.96,Low Purchase
+2011-07-22 00:00:00,1033 N Park Ave,Tucson,5.94,Low Purchase
+2012-03-11 00:00:00,1033 N Park Ave,Tucson,0.99,Baseline Purchase
+2013-09-02 00:00:00,1033 N Park Ave,Tucson,1.98,Baseline Purchase
+2013-10-13 00:00:00,1033 N Park Ave,Tucson,13.86,Target Purchase
+2009-06-05 00:00:00,700 W Pender Street,Vancouver,1.98,Baseline Purchase
+2009-07-16 00:00:00,700 W Pender Street,Vancouver,13.86,Target Purchase
+2010-03-16 00:00:00,700 W Pender Street,Vancouver,9.91,Target Purchase
+2011-10-21 00:00:00,700 W Pender Street,Vancouver,1.98,Baseline Purchase
+2012-01-23 00:00:00,700 W Pender Street,Vancouver,3.96,Low Purchase
+2012-04-26 00:00:00,700 W Pender Street,Vancouver,5.94,Low Purchase
+2012-12-15 00:00:00,700 W Pender Street,Vancouver,0.99,Baseline Purchase
+2009-12-08 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,1.98,Baseline Purchase
+2010-01-18 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,18.86,Top Performer
+2010-09-18 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,8.91,Target Purchase
+2012-04-24 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,1.98,Baseline Purchase
+2012-07-27 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,3.96,Low Purchase
+2012-10-29 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,5.94,Low Purchase
+2013-06-19 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,0.99,Baseline Purchase
+2009-10-07 00:00:00,Ordynacka 10,Warsaw,1.98,Baseline Purchase
+2009-11-17 00:00:00,Ordynacka 10,Warsaw,13.86,Target Purchase
+2010-07-18 00:00:00,Ordynacka 10,Warsaw,8.91,Target Purchase
+2012-02-22 00:00:00,Ordynacka 10,Warsaw,1.98,Baseline Purchase
+2012-05-26 00:00:00,Ordynacka 10,Warsaw,3.96,Low Purchase
+2012-08-28 00:00:00,Ordynacka 10,Warsaw,5.94,Low Purchase
+2013-04-18 00:00:00,Ordynacka 10,Warsaw,0.99,Baseline Purchase
+2009-08-06 00:00:00,696 Osborne Street,Winnipeg,1.98,Baseline Purchase
+2009-09-16 00:00:00,696 Osborne Street,Winnipeg,13.86,Target Purchase
+2010-05-17 00:00:00,696 Osborne Street,Winnipeg,8.91,Target Purchase
+2011-12-22 00:00:00,696 Osborne Street,Winnipeg,1.98,Baseline Purchase
+2012-03-25 00:00:00,696 Osborne Street,Winnipeg,3.96,Low Purchase
+2012-06-27 00:00:00,696 Osborne Street,Winnipeg,5.94,Low Purchase
+2013-02-15 00:00:00,696 Osborne Street,Winnipeg,0.99,Baseline Purchase
+2009-04-22 00:00:00,5112 48 Street,Yellowknife,0.99,Baseline Purchase
+2010-10-14 00:00:00,5112 48 Street,Yellowknife,1.98,Baseline Purchase
+2010-11-24 00:00:00,5112 48 Street,Yellowknife,13.86,Target Purchase
+2011-07-25 00:00:00,5112 48 Street,Yellowknife,8.91,Target Purchase
+2013-02-28 00:00:00,5112 48 Street,Yellowknife,1.98,Baseline Purchase
+2013-06-02 00:00:00,5112 48 Street,Yellowknife,3.96,Low Purchase
+2013-09-04 00:00:00,5112 48 Street,Yellowknife,5.94,Low Purchase

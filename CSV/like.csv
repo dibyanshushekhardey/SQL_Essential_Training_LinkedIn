@@ -1,0 +1,4 @@
+BillingCity,"round(avg(total),2)"
+Lisbon,5.66
+London,5.37
+Lyon,5.37

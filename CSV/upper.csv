@@ -1,0 +1,14 @@
+FirstName,LastName,Address,Mailing Address,length(PostalCode),5 Digit Postal Code,First Name as Upper
+Frank,Harris,1600 Amphitheatre Parkway,"Frank Harris,1600 Amphitheatre Parkway,Mountain View,CA,94043-1351",10,94043,FRANK
+Jack,Smith,1 Microsoft Way,"Jack Smith,1 Microsoft Way,Redmond,WA,98052-8300",10,98052,JACK
+Michelle,Brooks,627 Broadway,"Michelle Brooks,627 Broadway,New York,NY,10012-2612",10,10012,MICHELLE
+Tim,Goyer,1 Infinite Loop,"Tim Goyer,1 Infinite Loop,Cupertino,CA,95014",5,95014,TIM
+Dan,Miller,541 Del Medio Avenue,"Dan Miller,541 Del Medio Avenue,Mountain View,CA,94040-111",9,94040,DAN
+Kathy,Chase,801 W 4th Street,"Kathy Chase,801 W 4th Street,Reno,NV,89503",5,89503,KATHY
+Heather,Leacock,120 S Orange Ave,"Heather Leacock,120 S Orange Ave,Orlando,FL,32801",5,32801,HEATHER
+John,Gordon,69 Salem Street,"John Gordon,69 Salem Street,Boston,MA,2113",4,2113,JOHN
+Frank,Ralston,162 E Superior Street,"Frank Ralston,162 E Superior Street,Chicago,IL,60611",5,60611,FRANK
+Victor,Stevens,319 N. Frances Street,"Victor Stevens,319 N. Frances Street,Madison,WI,53703",5,53703,VICTOR
+Richard,Cunningham,2211 W Berry Street,"Richard Cunningham,2211 W Berry Street,Fort Worth,TX,76110",5,76110,RICHARD
+Patrick,Gray,1033 N Park Ave,"Patrick Gray,1033 N Park Ave,Tucson,AZ,85719",5,85719,PATRICK
+Julia,Barnett,302 S 700 E,"Julia Barnett,302 S 700 E,Salt Lake City,UT,84102",5,84102,JULIA

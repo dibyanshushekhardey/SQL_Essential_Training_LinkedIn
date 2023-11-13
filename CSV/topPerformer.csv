@@ -1,0 +1,13 @@
+InvoiceDate,BillingAddress,BillingCity,Total,PurchaseType
+2011-11-01 00:00:00,,,1000.86,Top Performer
+2010-02-18 00:00:00,Erzsébet krt. 58.,Budapest,21.86,Top Performer
+2010-03-21 00:00:00,162 E Superior Street,Chicago,15.86,Top Performer
+2012-10-06 00:00:00,"68, Rue Jouvence",Dijon,16.86,Top Performer
+2011-04-28 00:00:00,3 Chatham Street,Dublin,21.86,Top Performer
+2012-08-05 00:00:00,2211 W Berry Street,Fort Worth,23.86,Top Performer
+2011-05-29 00:00:00,319 N. Frances Street,Madison,18.86,Top Performer
+2011-06-29 00:00:00,Ullevålsveien 14,Oslo,15.86,Top Performer
+2012-09-05 00:00:00,Klanova 9/506,Prague,16.86,Top Performer
+2013-11-13 00:00:00,Rilská 3174/6,Prague,25.86,Top Performer
+2010-01-13 00:00:00,"Calle Lira, 198",Santiago,17.91,Top Performer
+2010-01-18 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,18.86,Top Performer
